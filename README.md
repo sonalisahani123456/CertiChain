@@ -25,7 +25,7 @@ Database
 ________________________________________
 📂 Project Structure
 ├── src │ ├── components │ ├── pages │ ├── styles │ └── App.js ├── public ├── package.json └── README.md
-Live Demo: 
+Live Demo:  https://sonalisahani123456.github.io/CertiChain/
 📌 Project Purpose
 This project was developed for HackIndia Hackathon to address the real-world problem of fake certificates in recruitment and academic systems.
 It provides a secure and automated platform for instant certificate verification using database validation and AI-based logic concepts.
