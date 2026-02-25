@@ -1,20 +1,40 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# CertiChain
->>>>>>> a9e8951d711f54a9364d6f11ca5ca71aaa38f77e
+🎓 AI-Based Certificate Verification System
+An AI-powered web application that verifies the authenticity of academic and internship certificates.
+This system helps detect fake certificates and ensures secure validation for institutions and recruiters.
+________________________________________
+🚀 Features
+•	✅ Certificate Verification (Real / Fake detection)
+•	🤖 AI-based validation logic
+•	📊 Admin Dashboard with statistics
+•	📜 Verification History Timeline
+•	🌙 Dark Mode Support
+•	📱 Fully Responsive Design
+•	🔐 Role-based Login (Admin / User)
+________________________________________
+🛠️ Tech Stack
+Frontend
+•	React.js
+•	HTML5
+•	CSS3
+•	JavaScript
+Backend (if connected)
+•	Node.js / Express.js (or mention your backend)
+•	Python (for AI logic, if used)
+Database
+•	MongoDB / Local Storage (mention what you used)
+________________________________________
+📂 Project Structure
+├── src │ ├── components │ ├── pages │ ├── styles │ └── App.js ├── public ├── package.json └── README.md
+Live Demo: 
+📌 Project Purpose
+This project was developed for HackIndia Hackathon to address the real-world problem of fake certificates in recruitment and academic systems.
+It provides a secure and automated platform for instant certificate verification using database validation and AI-based logic concepts.
+🌍 Problem Statement
+Fake certificates and forged internship documents create trust issues in hiring and admissions. Manual verification is slow and unreliable.
+🎯 Our Solution
+Instant certificate verification using unique ID
+Verified / Not Found status display
+Admin dashboard with verification history
+Conceptual AI-based fraud detection logic
+📜 Disclaimer
+This project was built for HackIndia as an innovative solution prototype and is currently for demonstration purposes only. 👩‍💻 Author Sonali Sahani B.Tech CSE (Data Science)
