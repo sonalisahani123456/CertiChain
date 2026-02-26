@@ -1,4 +1,4 @@
-**🎓 AI-Based Certificate Verification System**
+**🎓 AI-Based internship and Certificate Verification System**
 
 An AI-powered web application that verifies the authenticity of academic and internship certificates.
 This system helps detect fake certificates and ensures secure validation for institutions and recruiters.
